@@ -14,9 +14,7 @@
 ---------------
 1. 主题1:**《schemepy，用python实现可尾递归的scheme》** 演讲者：**Shell909090**
 
-2. 主题2:**《guile-scsh，作为guile模块的scheme shell简介》** 演讲者：**Chaos**
-
-3. 自由交流
+2. 自由交流
 
 我们热烈欢迎任何对于Linux以及开源技术感兴趣的朋友前来参加!
 
@@ -38,26 +36,6 @@ schemepy是以python为基础实现的，可以尾递归的scheme。通过解构
 
 ## 需要的基础知识
 基本看完sicp，尤其是第四章。
-
-## 预计时长
-60分钟
-
-## 主题2
-《guile-scsh，作为guile模块的scheme shell简介》
-
-## 演讲者
-**Chaos**
-
-## 简介
-scsh, scheme shell 是以scheme语法为基础，面向脚本的一种shell。由于借助了scheme的语法的强大表达能力，明显提高shell开发的速度，以及代码的可读性。guile-scsh是在GNU Guile上实现的scheme shell。
-
-## 目标听众
-对shell脚本感兴趣的同学，希望提高生产力的同学。
-厌倦了各种write only 语言的系统管理员们。
-对python的spwan和popen2感到恐惧的系统管理员们。
-
-## 需要的基础知识
-知道并用过一种Unix Shell
 
 ## 预计时长
 60分钟
