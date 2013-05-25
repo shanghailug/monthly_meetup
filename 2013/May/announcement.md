@@ -12,7 +12,7 @@
 
 本月聚会内容:
 ---------------
-1. 主题1:**《schemepy，用python实现可尾递归的scheme》** 演讲者：**Shell909090**
+1. 主题:**《schemepy，用python实现可尾递归的scheme》** 演讲者：**Shell909090**
 
 2. 自由交流
 
