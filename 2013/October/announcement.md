@@ -25,7 +25,7 @@
 # 主题详细信息:
 
 ## 主题1
-Introduction to Haskell, an elegant and expressive language
+《Introduction to Haskell, an elegant and expressive language》
 
 ### 演讲者
 **俞昌远**
