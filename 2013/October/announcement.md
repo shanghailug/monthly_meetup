@@ -12,7 +12,7 @@
 
 本月聚会内容:
 ---------------
-1. 主题:**Introduction to Haskell, an elegant and expressive language** 演讲者:**俞昌远**
+1. 主题:**《Introduction to Haskell, an elegant and expressive language》** 演讲者:**俞昌远**
 
 2. 主题:**《Lisp 语言及当前的应用和发展》** 演讲者:**黄涧石**
 
