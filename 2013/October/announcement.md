@@ -12,7 +12,7 @@
 
 本月聚会内容:
 ---------------
-1. 主题:**《Introduction to Haskell, an elegant and expressive language》** 演讲者:**俞昌远**
+1. 主题:**《Introduction to Haskell, an elegant and expressive language》** 演讲者:**喻昌远**
 
 2. 主题:**《Lisp 语言及当前的应用和发展》** 演讲者:**黄涧石**
 
@@ -28,7 +28,7 @@
 《Introduction to Haskell, an elegant and expressive language》
 
 ### 演讲者
-**俞昌远**
+**喻昌远**
 
 ### 简介
 Haskell是一门函数式的编程语言，其惰性、静态以及纯粹的特性使它在各种编程语言中独树一帜。Haskell的语法简洁优雅，表达能力丰富。本讲座将先简单地介绍Haskell以及函数式编程的一些知识，然后通过具体的例子来展示Haskell的使用，展现其极具特色的一面，使听众对函数式编程以及Haskell有一个直观的了解，达到启发大家编程思路的目的。
