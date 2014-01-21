@@ -14,7 +14,7 @@
 ---------------
 1. 主题:**《D语言介绍，The D Programming Language》** 演讲者:**Lionello Lunesu**
 
-2. 主题:**郵件系統** 演讲者:**MaskRay**
+2. 主题:**《郵件系統》** 演讲者:**MaskRay**
 
 3. 自由交流
 
