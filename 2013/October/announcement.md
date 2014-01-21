@@ -1,10 +1,10 @@
-#SHLUG 2014年1月 月度技术分享会
+#SHLUG 2013年10月 月度技术分享会
 --------------------------------------------------------------------------------
-大家好，1月25日SHLUG将会举办2014年的1月技术交流聚会，
+大家好，10月19日SHLUG将会举办2013年的10月技术交流聚会，也是今年FP季第四场。
 
-**地址:** 上海市浦东新区乳山路506弄上海滩花园洋房南区1号楼5楼 Gitcafe
+**地址:** 上海静安区昌平路700号 昌平路和常德路路口， 联合创业办公社的三期：光源 举办
 
-**时间:** 2014年1月25日(星期六) 13:30 - 18:00
+**时间:** 2013年10月19日(星期六) 13:30 - 17:00
 
 **报名:** 不需要
 
@@ -12,47 +12,50 @@
 
 本月聚会内容:
 ---------------
-1. 主题:**《D语言介绍，The D Programming Language》** 演讲者:**Lionello Lunesu**
+1. 主题:**《Introduction to Haskell, an elegant and expressive language》** 演讲者:**喻昌远**
 
-2. 主题:**郵件系統** 演讲者:**MaskRay**
+2. 主题:**《Lisp 语言及当前的应用和发展》** 演讲者:**黄涧石**
 
 3. 自由交流
 
-4. 自助烧烤活动
+4. 会后AA制聚餐
 
 我们热烈欢迎任何对于Linux以及开源技术感兴趣的朋友前来参加!
 
 # 主题详细信息:
 
 ## 主题1
-《D语言介绍，The D Programming Language》
+《Introduction to Haskell, an elegant and expressive language》
 
 ### 演讲者
-**Lionello Lunesu**
+**喻昌远**
 
 ### 简介
-D is a language with C-like syntax and static typing. It pragmatically combines efficiency, control, and modeling power, with safety and programmer productivity. It’s a one of the few modern systems programming languages, with fast code generation and unparalleled meta-programming facilities.
-
-### 需要的基础知识
-会读C语言比较方便
-
-### 预计时长
-60分钟
-
-## 主题2
-《郵件系統》
-
-### 演讲者
-**MaskRay**(微博:http://weibo.com/MaskRay)
-
-### 简介
-郵件頭、SMTP, IMAP, MTA, mail命令, MX record等
+Haskell是一门函数式的编程语言，其惰性、静态以及纯粹的特性使它在各种编程语言中独树一帜。Haskell的语法简洁优雅，表达能力丰富。本讲座将先简单地介绍Haskell以及函数式编程的一些知识，然后通过具体的例子来展示Haskell的使用，展现其极具特色的一面，使听众对函数式编程以及Haskell有一个直观的了解，达到启发大家编程思路的目的。
 
 ### 目标听众
-熱衷折騰桌面Linux的用戶和工作中建站涉及郵件系統的人士
+程序设计人员，或者对函数是编程感兴趣的其他人士
 
 ### 需要的基础知识
-基礎 shell
+一定的程序设计基础，对C或ruby的语法有一定了解，如果熟悉或使用过其他函数式语言更佳
 
 ### 预计时长
-60分钟
+90分钟
+
+## 主题2
+《Lisp 语言及当前的应用和发展》
+
+### 演讲者
+**黄涧石**
+
+### 简介
+Lisp 是一门 Hacker 所推崇的语言，讲座将会介绍 Lisp 语言中一些特性，实际编写软件中独特的优点，以及当前一些优秀的应用和工具，最后介绍一下应用 Lisp（主要是 Clojure）的一些创业公司。
+
+### 目标听众
+Lisp 爱好者，程序语言爱好者（特别是动态语言fans）
+
+### 需要的基础知识
+程序语言的基本知识，编程经验，有 Lisp 编程经验为佳
+
+### 预计时长
+90分钟
