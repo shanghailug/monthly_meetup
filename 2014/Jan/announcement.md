@@ -28,7 +28,7 @@
 《D语言介绍，The D Programming Language》
 
 ### 演讲者
-**Lionello Lunesu**
+**Lionello Lunesu**(微博:http://weibo.com/u/2127170620)
 
 ### 简介
 D is a language with C-like syntax and static typing. It pragmatically combines efficiency, control, and modeling power, with safety and programmer productivity. It’s a one of the few modern systems programming languages, with fast code generation and unparalleled meta-programming facilities.
