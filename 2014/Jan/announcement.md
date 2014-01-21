@@ -18,7 +18,7 @@
 
 3. 自由交流
 
-4. 自助烧烤活动
+4. 烧烤活动
 
 我们热烈欢迎任何对于Linux以及开源技术感兴趣的朋友前来参加!
 
@@ -37,7 +37,7 @@ D is a language with C-like syntax and static typing. It pragmatically combines 
 会读C语言比较方便
 
 ### 预计时长
-60分钟
+60分钟 (时间可根据观众要求顺延，当场做用D语言做一个Workshop)
 
 ## 主题2
 《郵件系統》
