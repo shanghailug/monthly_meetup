@@ -1,0 +1,2 @@
+《密码强度分析》 演讲者:Shell909090
+slide地址:https://dl.dropboxusercontent.com/u/200711/slide/passwd.html
