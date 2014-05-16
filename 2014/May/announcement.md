@@ -16,7 +16,7 @@
 
 本月聚会内容:
 ---------------
-1. 主题:**《PCI -- a software perspective》** 演讲者:[**Wizard**](http://weibo.com/u/1148710327)
+1. 主题:**《PCI -- a software perspective》** 演讲者:**Wizard**(http://weibo.com/u/1148710327)
 
 2. 自由交流
 
@@ -28,7 +28,7 @@
 《PCI -- a software perspective》
 
 ### 演讲者
-[**Wizard**](http://weibo.com/u/1148710327)
+**Wizard**(http://weibo.com/u/1148710327)
 
 ### 简介
 PCI 是现系统上用的比较多的总线之一，虽然底层涉及了很多硬件知识，但是对于软件开发人员来说只需要了解系统中
