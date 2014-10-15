@@ -15,7 +15,7 @@
 
 1. 主题:**《一线运维故障排查经验分享》** 演讲者:**Bryton Lee**
 
-2. 主题:**《Openstack四周岁》** 演讲者:[**Ben**](http://weibo.com/communitymanager)
+2. 主题:**《Openstack四周岁》** 演讲者:[**Ben_杜玉杰**](http://weibo.com/communitymanager)
 
 3. 自由交流
 
@@ -43,7 +43,7 @@ Bryton Lee
 《Openstack四周岁》
 
 ### 演讲者
-[**Ben**](http://weibo.com/communitymanager)
+[**Ben_杜玉杰**](http://weibo.com/communitymanager)
 
 ### 简介
 Openstack发展历程及企业应用之路
