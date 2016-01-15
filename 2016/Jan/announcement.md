@@ -1,6 +1,6 @@
 # SHLUG 2016年1月 月度技术分享会
 --------------------------------------------------------------------------------
-大家好，1月24日SHLUG将会举办2016年的1月技术交流聚会。感谢[**墨社 Mozzos**]( http://https://mozzos.com )为本次活动提供的场地赞助.
+大家好，1月24日SHLUG将会举办2016年的1月技术交流聚会。感谢[XNode创极无限（静安空间）](https://mozzos.com/zh/spaces/view/d571496a-1315-42ee-93e8-c90886996b61)为本次活动提供的场地赞助.
 
 **地址:** [XNode创极无限（静安空间）](https://mozzos.com/zh/spaces/view/d571496a-1315-42ee-93e8-c90886996b61) 延安西路129号华侨大厦9楼 上海, 静安区[**在线地图**](http://m.amap.com/search/view/keywords=%E4%B8%AD%E5%9B%BD%E4%B8%8A%E6%B5%B7%E5%B8%82%E4%B8%8A%E6%B5%B7%E9%9D%99%E5%AE%89%E5%8C%BA%E5%BB%B6%E5%AE%89%E8%A5%BF%E8%B7%AF129%E5%8F%B7)
 
