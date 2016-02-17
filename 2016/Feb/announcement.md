@@ -61,23 +61,23 @@
 # SHLUG Monthly-Meetup February 2016
 -------------------------------------------
 
-Hello,open source lovers.We will hold this year's second time SHLUG Monthly-Meetup at Sunday, February 28. Thanks [**Sino Israel Technology Innovations**(www.siti.co.il)](www.siti.co.il)** for sponsoring the space.
+Hello,open source lovers.We will hold this year's second time SHLUG Monthly-Meetup at Sunday, February 28. Thanks [**Sino Israel Technology Innovations**(www.siti.co.il)](www.siti.co.il) for sponsoring the space.
 
 
-**Location**: Building 1 647 Songtao Road Zhangjiang Hi-tech Park Shanghai.[**Online Map**:http://f.amap.com/0C015ka](http://f.amap.com/0C015ka)
+**Location**: Building 1, 647 Songtao Road Zhangjiang Hi-tech Park Shanghai.[**Online Map**:http://f.amap.com/0C015ka](http://f.amap.com/0C015ka)
 
 **Time**: Sunday, February 28, 2016  13:30PM to 17:00 PM
 
-Registration is ** not required **
+Registration is **not required**
 
 Registration fee is also **not required**
 
 
 # SCHEDULE:
 
-1. Presentation: **Designing security infrastructure with no single-point-of-failure** Speaker:**Ivo**
+1. Presentation: **Designing security infrastructure with no single-point-of-failure** by **Ivo**
 
-2. Presentation: **An Introduction to WebShell** Speaker:**傅奎**
+2. Presentation: **An Introduction to WebShell** by **傅奎**
 
 3. Free chat
 
