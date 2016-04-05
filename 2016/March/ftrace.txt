@@ -1,0 +1,49 @@
+感謝 Frank 與昌遠的組織, 以及 shell 公司提供場地, 讓月聚順利的舉行, 歡樂的結束.
+
+附上個人覺得比較有用的 ftrace 參考資料
+* Debugging the kernel using Ftrace - part 1
+* Debugging the kernel using Ftrace - part 2
+* Ftrace: Latency Tracing
+* Secrets of the Ftrace function tracer
+* Ftrace: The hidden light switch
+* Measuring Function Duration with Ftrace
+* Ftrace Kernel Hooks:More than just tracing
+* Documentation/trace/
+
+關於 ftrace 的設計
+* function tracer guts
+
+shell 題到 kprobe 新增時的問題
+* An introduction to KProbes
+* Kernel Probes (Kprobes)
+
+perf-tools 項目: https://github.com/brendangregg/perf-tools
+
+另外, uprobe 的例子是少了一層 +|-N(). +|-N() 的作用是, 將 () 中的地址取出, 加上 N 後, 取內存中的值.
+
+當 PyCFunction_Call() 被調用時, 第一個參數為 (PyCFunctionObject *) func, 一個指針, 對這個指針的地址加上 16, 取得內存中的值後, 得到 (PyMoethodDev *) m_ml 這個指針的值.
+
+m_ml 的第一個 field 即為 (char *) ml_name, 下午在這裡就 :string 了.
+
+在 ftrace + uprobe 或 ftrace + kprobe 時, 要經由 pointer 取得值, 不論指向的類型是 u8/u16/...s8/s16... 或是 string, 都得要再 +|-N() 一次, 所以要這麼寫
+
+$ sudo ./utrace trace /usr/bin/python2.7 -p 'PyCFunction_Call:+0(+0(+16(%di))):string'
+1 probe point(s) added
+       python2.7-11877 [000] d...  3870.515308: PyCFunction_Call: (0x4b3b40) arg1="utf_8_decode"
+       python2.7-11877 [000] d...  3873.719929: PyCFunction_Call: (0x4b3b40) arg1="utf_8_decode"
+       python2.7-11877 [000] d...  3873.719994: PyCFunction_Call: (0x4b3b40) arg1="displayhook"
+       python2.7-11877 [003] d...  3878.665339: PyCFunction_Call: (0x4b3b40) arg1="utf_8_decode"
+       python2.7-11877 [000] d...  3881.165017: PyCFunction_Call: (0x4b3b40) arg1="utf_8_decode"
+       python2.7-11877 [000] d...  3881.401642: PyCFunction_Call: (0x4b3b40) arg1="utf_8_decode"
+       python2.7-11877 [003] d...  3882.492313: PyCFunction_Call: (0x4b3b40) arg1="utf_8_decode"
+       python2.7-11877 [003] d...  3882.492383: PyCFunction_Call: (0x4b3b40) arg1="displayhook"
+       applet.py-2099  [000] d...  3897.960556: PyCFunction_Call: (0x4b3b40) arg1="isinstance"
+       applet.py-2099  [000] d...  3897.960589: PyCFunction_Call: (0x4b3b40) arg1="get"
+       applet.py-2099  [000] d...  3897.960592: PyCFunction_Call: (0x4b3b40) arg1="get"
+       applet.py-2099  [000] d...  3897.960595: PyCFunction_Call: (0x4b3b40) arg1="get"
+       applet.py-2099  [000] d...  3897.960613: PyCFunction_Call: (0x4b3b40) arg1="get_args_list"
+       applet.py-2099  [000] d...  3897.960636: PyCFunction_Call: (0x4b3b40) arg1="get"
+       applet.py-2099  [000] d...  3897.960639: PyCFunction_Call: (0x4b3b40) arg1="get"
+       applet.py-2099  [000] d...  3897.960642: PyCFunction_Call: (0x4b3b40) arg1="get"
+
+在 perf-tools 項目中有 uprobe 及 kprobe 兩個 script, 可用它們簡化 uprobe & kprobe 的操作 (指 debugfs 的部份). 在 examples/ 下有 bin/ 下這些 script 的說明及用例.
