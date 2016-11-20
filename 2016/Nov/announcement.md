@@ -47,7 +47,7 @@
 **吕路生**, web后端开发工程师，badwolf 作者，Rust 爱好者。
 
 ### 简介
-介绍为方便在 Bitbucket 上进行集成测试与代码风格审查的工具 Badwolf（https://github.com/bosondata/badwolf）。 
+介绍为方便在 Bitbucket 上进行集成测试与代码风格审查的工具 [**Badwolf**](https://github.com/bosondata/badwolf)
 
 ### 需要的基础知识
 Python 编程语言基础。
