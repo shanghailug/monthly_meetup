@@ -3,7 +3,7 @@
 大家好，12月25日(星期日)SHLUG将会举办2016年度第七次技术交流聚会。本地活动将与上海Ubuntu社区合办, 感谢[**联合创业办公社People Squared**](http://www.people-squared.com/lighthouse.html)为本次活动提供的场地赞助.
 
 
-**地址:** 静安区昌平路700号(近常德路) 地铁7号线昌平路地铁站出来。 [**谷歌地图**](https://goo.gl/maps/3XjoQjKra6m) [**百度地图**](http://j.map.baidu.com/fZ8PH)
+**地址:** 静安区昌平路700号(近常德路) 联合创业办公社(光源) 地铁7号线昌平路地铁站。 [**谷歌地图**](https://goo.gl/maps/3XjoQjKra6m) [**百度地图**](http://j.map.baidu.com/fZ8PH)
 
 
 **时间:** 2016年12月25日(星期日) 14:00 - 17:00
