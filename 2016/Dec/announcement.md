@@ -32,6 +32,8 @@
 ### 简介
 Ubuntu Core是一个精简版的Ubuntu系统，完全采用安全、易于更新的开源Linux打包格式Snap构建。Ubuntu Core针对生产环境从头开始设计，并在安全性和易维护性方面进行了优化。同时，Ubuntu Core为快速打造物联网设备和嵌入式设备提供了一个安全的支持平台，Ubuntu Core支持ARM、X86架构硬件。snapcraft是snap应用格式包的工具打包。
 
+PS：我们会带一些支持Ubuntu Core的硬件到现场，大家可以现场体验。
+
 ### 需要的基础知识
 了解Linux、Ubuntu，熟悉嵌入式硬件（如树莓派）、通信协议，有无开发经验皆可；
 
