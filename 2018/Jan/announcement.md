@@ -12,9 +12,9 @@
 
 本月聚会内容:
 ---------------
-1. 主题1:**《Cryptocurrencies and Crypto Mining》** 演讲者: **曹一凌*
+1. 主题1:**《Cryptocurrencies and Crypto Mining》** 演讲者: **曹一凌**
 
-2. 主题2:《SHLUG V3.0 发展规划讨论》 演讲者: **Thomas Yao***
+2. 主题2:**《SHLUG V3.0 发展规划讨论》** 演讲者: **Thomas Yao**
 
 3. 自由交流
 
